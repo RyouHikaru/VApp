@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">VApp</string>
+    <string name="img1_desc">
+        This photo symbolizes my interest in watching anime. Katekyo Hitman Reborn
+        is the title of the anime portrayed in this image.
+        At that time, I was\'nt into anime that much. It was my first loved anime ever.
+    </string>
+    <string name="img2_desc">
+        This photo shows my interest in cats. Yes, I may be a stone-hearted man,
+        but I like cats, especially when they are fluffy and cute.
+        I never had a cat before, and hoping that in the future, will get one.
+    </string>
+    <string name="img3_desc">
+        Computer Science! My beloved course. I might not be the greatest among ComSci students,
+        but I believe that one day, I\'ll be able to design software
+        efficiently, and work with Robotics, aka. Machine Learning.
+    </string>
+    <string name="img4_desc">
+        This picture was taken 3 years ago, at the time when I was a Senior High School student.
+        We ate at Dad\'s Buffet since it was my Aunt\'s birthday. This photo is not the totality
+        of my family, but I sure had a wholesome moment with them.
+    </string>
+    <string name="img5_desc">
+        We are HERMES! This photo is just my edited version from the original photoshoot.
+        We participated in the HCI Ideathon 2019 as the group name \"Hermes\", with our
+        concept, \"Talaria\", a bug-like robot designed for Disaster Risk Management.
+    </string>
+    <string name="img6_desc">
+        Here are my loving parents. My mom, Eden on the left, and my dad, Jaime on the right.
+        This photo was taken I guess 4 years ago, at the Patapat Bridge, Ilocos Norte.
+        At this particular moment, we are on the way to Vigan City. Adventurer!
+    </string>
+    <string name="img7_desc">
+        Cuties! Siberian Husky is the cutest dog breed ever! (That\'s just a personal
+        preference). But seriously, I would love to take care of one, but at this moment,
+        I\'m living in a rented apartment and is busy in academic works, therefore, I have no time. Poor me.
+    </string>
+    <string name="img8_desc">
+        This photo right here is my current laptop, Dell Inspiron 15 7577. I bought this laptop last
+        October 31, 2019 (one day after my Dad\'s Birthday). Since I\'m into ComSci, I definitely
+        love computers and passionate about them. Hoping this laptop lasts long. Yey!
+    </string>
+    <string name="img9_desc">
+        Hungry? Grab a chicken. Yes, this one right here is my beloved Fried Chicken. I like all
+        kinds of Fried Chicken out there, and never resisted once. There are still preferences, like
+        Jollibee\'s chicken is better than McDo, but most of the time, I but at Ministop. LOL.
+    </string>
+    <string name="img10_desc">
+        You dare invite me to a milk tea? I will never refuse. This one right here is my favorite
+        beverage, the \"Milk Tea\", ladies and gentlemen. My favorite flavor is Wintermelon, and I
+        am proud to say that I am a Milk Tea Taster.
+    </string>
+</resources>
