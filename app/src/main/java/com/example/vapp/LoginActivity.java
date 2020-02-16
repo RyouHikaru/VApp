@@ -90,6 +90,7 @@ public class LoginActivity extends AppCompatActivity {
                 else {
                     setPassCodeTextToEmpty();
                     Toast.makeText(LoginActivity.this, "Incorrect passcode", Toast.LENGTH_SHORT).show();
+                    pc1.requestFocus();
                 }
             }
         });
