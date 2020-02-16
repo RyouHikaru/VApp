@@ -1,6 +1,7 @@
 package com.example.vapp;
 
 import android.content.Intent;
+import android.content.ServiceConnection;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -20,6 +21,10 @@ public class MessageActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_message);
 
+        final Intent musicService = new Intent();
+        musicService.setClass(this, BackgroundSoundService.class);
+        startService(musicService);
+
         msgRatingBar = findViewById(R.id.msgRatingBar);
         msgRatingBar.setRating(getIntent().getFloatExtra("MSGRATING", 0.0f));
 
@@ -31,6 +36,7 @@ public class MessageActivity extends AppCompatActivity {
                 i.putExtra("MSGRATING", msgRatingBar.getRating());
                 setResult(2, i);
 //                Toast.makeText(MessageActivity.this, Float.toString(msgRatingBar.getRating()), Toast.LENGTH_SHORT).show();
+                stopService(musicService);
                 finish();
             }
         });
